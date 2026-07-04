@@ -30,7 +30,7 @@ I believe in writing clean, reproducible code and sharing knowledge with the com
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-3B82F6?style=flat&logo=clerk&logoColor=white)
-![Google Auth](https://img.shields.io/badge/Google_Auth-4285F4?style=flat&logo=google&logoColor=white)
+![Google Auth](https://img.shields.io/badge/Google_Auth-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -47,12 +47,8 @@ I believe in writing clean, reproducible code and sharing knowledge with the com
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=guptaparag101-web&count_private=true&show_icons=true&theme=radical" alt="Parag's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guptaparag101-web&count_private=true&show_icons=true&theme=radical" alt="Parag's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaparag101-web&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api/top-langs/?username=guptaparag101-web&count_private=true&layout=compact&theme=radical" alt="Top Languages" width="60%" />
 </p>
 
 ---
