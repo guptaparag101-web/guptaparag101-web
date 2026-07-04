@@ -46,9 +46,9 @@ I believe in writing clean, reproducible code and sharing knowledge with the com
 
 ## 🌟 GitHub Stats
 
-![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaparag101-web&show_icons=true&theme=radical)  
+![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaparag101-web&count_private=true&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaparag101-web&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaparag101-web&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaparag101-web&count_private=true&layout=compact&theme=radical)
 
 ---
 
