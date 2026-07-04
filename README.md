@@ -47,8 +47,8 @@ I believe in writing clean, reproducible code and sharing knowledge with the com
 ## 🌟 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=guptaparag101-web&count_private=true&show_icons=true&theme=radical" alt="Parag's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaparag101-web&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bytesyntax-dev&count_private=true&show_icons=true&theme=radical" alt="Parag's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bytesyntax-dev&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
@@ -66,4 +66,4 @@ I believe in writing clean, reproducible code and sharing knowledge with the com
 
 ## 📈 Activity Graph
 
-![Parag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guptaparag101-web&theme=radical)
+![Parag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bytesyntax-dev&theme=radical)
