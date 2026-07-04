@@ -46,9 +46,16 @@ I believe in writing clean, reproducible code and sharing knowledge with the com
 
 ## 🌟 GitHub Stats
 
-![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaparag101-web&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guptaparag101-web&theme=radical&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaparag101-web&count_private=true&layout=compact&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-metrics.vercel.app/api?username=guptaparag101-web&count_private=true&show_icons=true&theme=radical" alt="Parag's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaparag101-web&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-metrics.vercel.app/api/top-langs/?username=guptaparag101-web&count_private=true&layout=compact&theme=radical" alt="Top Languages" width="60%" />
+</p>
+
+---
 
 ## 📊 Competitive Programming Stats
 
@@ -63,4 +70,4 @@ I believe in writing clean, reproducible code and sharing knowledge with the com
 
 ## 📈 Activity Graph
 
-![Parag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guptaparag101-web&theme=radical&cache_seconds=1800)
+![Parag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guptaparag101-web&theme=radical)
